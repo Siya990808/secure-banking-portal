@@ -220,10 +220,10 @@ secure-banking-portal/
 
 ---
 
-## Author
+## Authors
 
-**Siyabonga Mfusi**
-**Michael Bougardt**
-**Jadzia Naidoo**
-**Nivad Rampasad**
-**Andile Nzama**
+- **Siyabonga Mfusi**
+- **Michael Bougardt**
+- **Jadzia Naidoo**
+- **Nivad Rampasad**
+- **Andile Nzama**
