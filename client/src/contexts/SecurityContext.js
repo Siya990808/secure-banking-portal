@@ -26,9 +26,9 @@ export const VALIDATION_PATTERNS = {
   email: /^[^\s@]+@[^\s@]+\.[^\s@]+$/,
   password: /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,128}$/,
 
-  paymentAmount: /^\d+(\.\d{1,2})?$/, // Positive numbers with up to 2 decimal places
-  currencyCode: /^[A-Z]{3}$/, // Exactly 3 uppercase letters
-  swiftCode: /^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/, // 8-11 alphanumeric chars
+  paymentAmount: /^\d+(\.\d{1,2})?$/, 
+  currencyCode: /^[A-Z]{3}$/, 
+  swiftCode: /^[A-Z]{6}[A-Z0-9]{2}([A-Z0-9]{3})?$/, 
   accountNumber: /^[A-Z0-9]{8,34}$/,
   beneficiaryName: /^[A-Za-z\s\-']+$/,
 };
