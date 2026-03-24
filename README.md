@@ -223,5 +223,7 @@ secure-banking-portal/
 ## Author
 
 **Siyabonga Mfusi**
-- GitHub: [@Siya990808](https://github.com/Siya990808)
-- LinkedIn: [Siyabonga Mfusi](https://www.linkedin.com/in/siyabongamfusi)
+**Michael Bougardt**
+**Jadzia Naidoo**
+**Nivad Rampasad**
+**Andile Nzama**
